@@ -1,0 +1,16 @@
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/model/Serie.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/service/IConverteDados.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/principal/Principal.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/service/ConverteDados.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/ScreenmatchApplication.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/service/traducao/DadosResposta.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/model/Episodio.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/model/DadosSerie.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/repository/SerieRepository.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/service/ConsumoApi.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/model/DadosTemporada.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/service/ConsultaChatGPT.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/service/traducao/ConsultaMyMemory.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/service/traducao/DadosTraducao.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/model/DadosEpisodio.java
+/home/mrangelenovo/MeusProjetos/3355-java-screenmatch-com-jpa/src/main/java/br/com/alura/screenmatch/model/Categoria.java
